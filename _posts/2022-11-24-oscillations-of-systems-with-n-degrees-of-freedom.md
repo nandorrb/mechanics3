@@ -69,19 +69,22 @@ The value of the targey mass is 0.175 KG
 Therefore the frequencies calcuclated 
 
 First mass Frequency:
+
 ![](/images/freq1.png)
 
 Second mass Frequency:
+
 ![](/images/freq2.png)
 
 Third mass Frequency:
+
 ![](/images/freq3.png)
 
 
 # Classes annotations:
 ## Part 1: 
-![](/images/lab9and10/IMG_20221124_144721.jpg)
+![](/images/lab9and10/IMG_20221124_144721.png)
 ## Part 2: 
-![](/images/lab9and10/IMG_20221124_144732.jpg)
+![](/images/lab9and10/IMG_20221124_144732.png)
 ## Part 3: 
-![](/images/lab9and10/IMG_20221124_144746.jpg)
+![](/images/lab9and10/IMG_20221124_144746.png)
