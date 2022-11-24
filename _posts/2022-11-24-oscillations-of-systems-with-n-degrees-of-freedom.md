@@ -68,3 +68,12 @@ for m in np.arange(0.1,0.2,0.01):
 The value of the targey mass is 0.175 KG
 Therefore the frequencies calcuclated 
 
+First mass Frequency:
+![](/images/freq1.png)
+
+Second mass Frequency:
+![](/images/freq2.png)
+
+Third mass Frequency:
+![](/images/freq3.png)
+
