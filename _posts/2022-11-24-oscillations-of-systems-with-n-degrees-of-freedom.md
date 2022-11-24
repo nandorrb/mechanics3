@@ -77,3 +77,11 @@ Second mass Frequency:
 Third mass Frequency:
 ![](/images/freq3.png)
 
+
+# Classes annotations:
+## Part 1: 
+![](/images/lab9and10/IMG_20221124_144721.jpg)
+## Part 2: 
+![](/images/lab9and10/IMG_20221124_144732.jpg)
+## Part 3: 
+![](/images/lab9and10/IMG_20221124_144746.jpg)
