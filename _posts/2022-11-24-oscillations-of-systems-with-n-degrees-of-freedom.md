@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
+title: Laboratory 9 and 10 week - oscillations of systems with n degrees of freedom
 categories: [Miscellaneous, Jekyll]
 ---
 
