@@ -51,14 +51,20 @@ Caulculation for differennt mass size
 ```
 import numpy as np
 VYSL = []
-for x in range(0,200):
-    m = x/1000.0
+for m in np.arange(0.1,0.2,0.01):
+
     m1=m
     m2=m+0.012
     m3=m
     M=np.diag([m1,m2,m3])
+    #print(P)
     u,v  = np.linalg.eig(P*M)
-    frequencys = np.diag((v**0.5)/2/np.pi)
-    VYSL.append([m, frequencys])
+    #print(u)
+    frequencys = ((u**0.5)/(2*np.pi))
+    VYSL.append([m, frequencys[2],frequencys[1],frequencys[0]])
+
 ```
+
+The value of the targey mass is 0.175 KG
+Therefore the frequencies calcuclated 
 
